@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)]
 <h1 align="center">Hi there 👋 This is Anchal.</h1>
-<h3 align="center">A passionate frontend developer from India. Pursuing Btech in CSBS from NSEC-Kolkata.</h3>
+<h3 align="center">A passionate frontend developer. Pursuing Btech in CSBS from NSEC-Kolkata.</h3>
 <img align="right" alt ="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchaltiw&label=Profile%20views&color=0e75b6&style=flat" alt="anchaltiw" /> </p>
